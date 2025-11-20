@@ -1,0 +1,5 @@
+{
+  "name": "卡片项目",
+  "description": "Create aesthetic social media cover images (Xiaohongshu/Instagram style) using uploaded photos or AI-generated visuals via Gemini Nano.",
+  "requestFramePermissions": []
+}
